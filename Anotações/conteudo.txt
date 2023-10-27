@@ -1,0 +1,44 @@
+Boa Tarde, Seja bem-vindo!
+A jornada colorida da Web
+Curso ESG desenvolvido por Beatriz Bortolucci & André Asseituno
+(Em parceria com o Curso de Front-End com Gabriel Félix & Guilherme Vinícius )
+Você iniciou esse curso em 18/10/2023, já se passaram 11 dias!
+Mas será que você tem o que é necessário para desenvolver esse WebSite?
+Curso de Html e Css
+Você já conquistou muito até chegar aqui, por isso viemos te presentear com a prática final de HTML & Css. Será que você consegue lembrar de tudo que revisamos? Vamos fazer um Recap de tudo que nós trabalhamos!
+
+Conteúdos Trabalhados:
+Logo Html Logo Css
+Html para Iniciantes:
+Tags Textuais;
+Listas ordenadas e não ordenadas;
+Listas de definição;
+Links;
+Tabelas;
+Tags Textuais;
+Tags Textuais;
+Tags Textuais.
+Css para Iniciantes:
+Conceitos de Box Model;
+Seletores de Declaração;
+Propriedade e Valor;
+Unindo HTML e CSS;
+id X Classe;
+Cores.
+Html e Css para Iniciantes:
+Layout;
+Imagem e Favicon;
+Desgin de textos;
+Fontes.
+
+Seguem nossos materiais:
+Html para Iniciantes
+
+Css para Iniciantes
+
+Html e Css para Iniciantes
+
+Prática Final
+
+
+banner ESG
